@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>   
+<head>
+h1{color:pink;font-family:helvetica;}
 </head>
 <body>
-  <h1>Stephanie's Website</h1>
-h1 {color:pink;
-font-family:helvetica;}
-<p>Welcome to my webpage!</p>
+<p>Welcome to Stephanie's webpage!</p>
 </body>
 </html>
