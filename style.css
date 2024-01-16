@@ -4,7 +4,11 @@
     <link rel="stylesheet" href="style.css">   
 </head>
 <body>
-  <h1>Stephanie's Website</h1>  
+  <h1>Stephanie's Website</h1>
+h1 {
+color:pink;
+font-family:helvetica;
+}
 <p>Welcome to my webpage!</p>
 </body>
 </html>
